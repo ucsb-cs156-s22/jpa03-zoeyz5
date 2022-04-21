@@ -4,8 +4,8 @@
 
 Storybook is here:
 * Github repo: https://github.com/ucsb-cs156-s22/jpa03-zoeyz5
-* Production: <https://ucsb-cs156-s22.github.io/jpa03-zoeyz5-docs/storybook>
-* QA:  <https://ucsb-cs156-s22.github.io/jpa03-zoeyz5-docs-qa/storybook-qa/main>
+* Production: <https://ucsb-cs156-s22.github.io/jpa03-zoeyz5-docs>
+* QA:  <https://ucsb-cs156-s22.github.io/jpa03-zoeyz5-docs-qa>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
